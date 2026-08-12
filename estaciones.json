@@ -1,20 +1,71 @@
 [
   { "nombre": "UDEP #1 - Jefatura de Atlántida (La Ceiba)", "lat": 15.7597, "lon": -86.7822, "departamento": "Atlántida" },
+  { "nombre": "Posta Policial de Tela", "lat": 15.7833, "lon": -87.4500, "departamento": "Atlántida" },
+  { "nombre": "Posta Policial de Jutiapa", "lat": 15.7333, "lon": -86.5167, "departamento": "Atlántida" },
+  
   { "nombre": "UDEP #2 - Jefatura de Colón (Tocoa)", "lat": 15.6833, "lon": -86.0000, "departamento": "Colón" },
+  { "nombre": "Posta Policial de Trujillo", "lat": 15.9167, "lon": -85.9500, "departamento": "Colón" },
+  { "nombre": "Posta Policial de Sonaguera", "lat": 15.6333, "lon": -86.2667, "departamento": "Colón" },
+  
   { "nombre": "UDEP #3 - Jefatura de Comayagua", "lat": 14.4530, "lon": -87.6380, "departamento": "Comayagua" },
+  { "nombre": "Jefatura Municipal de Siguatepeque", "lat": 14.6000, "lon": -87.8333, "departamento": "Comayagua" },
+  { "nombre": "Posta Policial de Taulabé", "lat": 14.7000, "lon": -87.9667, "departamento": "Comayagua" },
+  
   { "nombre": "UDEP #4 - Jefatura de Copán (Santa Rosa)", "lat": 14.7667, "lon": -88.7792, "departamento": "Copán" },
+  { "nombre": "Jefatura Municipal de La Entrada (Nueva Arcadia)", "lat": 15.0500, "lon": -88.7333, "departamento": "Copán" },
+  { "nombre": "Posta Policial Copán Ruinas", "lat": 14.8333, "lon": -89.1500, "departamento": "Copán" },
+  
   { "nombre": "UMEP #2 - Primera Estación de Cortés (San Pedro Sula)", "lat": 15.5020, "lon": -88.0260, "departamento": "Cortés" },
+  { "nombre": "UMEP #5 - Jefatura de Villanueva", "lat": 15.3167, "lon": -88.0000, "departamento": "Cortés" },
+  { "nombre": "Jefatura Municipal de Puerto Cortés", "lat": 15.8333, "lon": -87.9333, "departamento": "Cortés" },
+  { "nombre": "Jefatura Municipal de Choloma", "lat": 15.6167, "lon": -87.9500, "departamento": "Cortés" },
+  { "nombre": "Posta Policial Chamelecón", "lat": 15.4333, "lon": -88.0167, "departamento": "Cortés" },
+  
   { "nombre": "UDEP #6 - Jefatura de Choluteca", "lat": 13.3027, "lon": -87.1895, "departamento": "Choluteca" },
+  { "nombre": "Jefatura Municipal de San Marcos de Colón", "lat": 13.4333, "lon": -86.9333, "departamento": "Choluteca" },
+  { "nombre": "Posta Policial de Pespire", "lat": 13.5833, "lon": -87.3500, "departamento": "Choluteca" },
+  
   { "nombre": "UDEP #7 - Jefatura de El Paraíso (Danlí)", "lat": 14.0358, "lon": -86.5725, "departamento": "El Paraíso" },
+  { "nombre": "Jefatura Municipal de El Paraíso", "lat": 13.8667, "lon": -86.5500, "departamento": "El Paraíso" },
+  { "nombre": "Posta Policial de Yuscarán", "lat": 13.9333, "lon": -86.8500, "departamento": "El Paraíso" },
+  
   { "nombre": "UMEP #1 - Jefatura Metropolitana Francisco Morazán (Core 7)", "lat": 14.1065, "lon": -87.2045, "departamento": "Francisco Morazán" },
+  { "nombre": "Posta Policial El Manchén (Tegucigalpa)", "lat": 14.1090, "lon": -87.1950, "departamento": "Francisco Morazán" },
+  { "nombre": "UMEP #4 - Estación Kennedy (Tegucigalpa)", "lat": 14.0667, "lon": -87.1667, "departamento": "Francisco Morazán" },
+  { "nombre": "Posta Policial Belén (Comayagüela)", "lat": 14.1167, "lon": -87.2167, "departamento": "Francisco Morazán" },
+  { "nombre": "Jefatura Municipal de Talanga", "lat": 14.4000, "lon": -87.1000, "departamento": "Francisco Morazán" },
+  { "nombre": "Posta Policial Valle de Ángeles", "lat": 14.1500, "lon": -87.0333, "departamento": "Francisco Morazán" },
+  
   { "nombre": "UDEP #9 - Jefatura de Gracias a Dios (Puerto Lempira)", "lat": 15.2667, "lon": -83.7667, "departamento": "Gracias a Dios" },
+  
   { "nombre": "UDEP #10 - Jefatura de Intibucá (La Esperanza)", "lat": 14.3111, "lon": -88.1833, "departamento": "Intibucá" },
+  { "nombre": "Jefatura Municipal de Jesús de Otoro", "lat": 14.4833, "lon": -87.9833, "departamento": "Intibucá" },
+  
   { "nombre": "UDEP #11 - Jefatura de Islas de la Bahía (Roatán)", "lat": 16.3167, "lon": -86.5333, "departamento": "Islas de la Bahía" },
+  { "nombre": "Posta Policial de Utila", "lat": 16.1000, "lon": -86.9000, "departamento": "Islas de la Bahía" },
+  
   { "nombre": "UDEP #12 - Jefatura de La Paz", "lat": 14.3194, "lon": -87.6792, "departamento": "La Paz" },
+  { "nombre": "Jefatura Municipal de Marcala", "lat": 14.1500, "lon": -88.0333, "departamento": "La Paz" },
+  
   { "nombre": "UDEP #13 - Jefatura de Lempira (Gracias)", "lat": 14.5833, "lon": -88.5833, "departamento": "Lempira" },
+  { "nombre": "Posta Policial de Lepaera", "lat": 14.7167, "lon": -88.4833, "departamento": "Lempira" },
+  
   { "nombre": "UDEP #14 - Jefatura de Ocotepeque", "lat": 14.4333, "lon": -89.1833, "departamento": "Ocotepeque" },
+  { "nombre": "Jefatura Municipal de San Marcos", "lat": 14.4000, "lon": -88.9500, "departamento": "Ocotepeque" },
+  
   { "nombre": "UDEP #15 - Jefatura de Olancho (Juticalpa)", "lat": 14.6667, "lon": -86.2167, "departamento": "Olancho" },
+  { "nombre": "Jefatura Municipal de Catacamas", "lat": 14.8500, "lon": -85.9000, "departamento": "Olancho" },
+  { "nombre": "Posta Policial de Campamento", "lat": 14.5500, "lon": -86.5500, "departamento": "Olancho" },
+  
   { "nombre": "UDEP #16 - Jefatura de Santa Bárbara", "lat": 14.9167, "lon": -88.2333, "departamento": "Santa Bárbara" },
+  { "nombre": "Jefatura Municipal de Quimistán", "lat": 15.3500, "lon": -88.4000, "departamento": "Santa Bárbara" },
+  { "nombre": "Posta Policial de Macuelizo", "lat": 15.3167, "lon": -88.5000, "departamento": "Santa Bárbara" },
+  
   { "nombre": "UDEP #17 - Jefatura de Valle (Nacaome)", "lat": 13.5167, "lon": -87.4833, "departamento": "Valle" },
-  { "nombre": "UDEP #18 - Jefatura de Yoro (El Progreso)", "lat": 15.4000, "lon": -87.8000, "departamento": "Yoro" }
+  { "nombre": "Jefatura Municipal de San Lorenzo", "lat": 13.4167, "lon": -87.4500, "departamento": "Valle" },
+  { "nombre": "Posta Policial de Amapala", "lat": 13.2833, "lon": -87.6500, "departamento": "Valle" },
+  
+  { "nombre": "UDEP #18 - Jefatura de Yoro (El Progreso)", "lat": 15.4000, "lon": -87.8000, "departamento": "Yoro" },
+  { "nombre": "Jefatura Municipal de Yoro", "lat": 15.1333, "lon": -87.1333, "departamento": "Yoro" },
+  { "nombre": "Jefatura Municipal de Olanchito", "lat": 15.4833, "lon": -86.5833, "departamento": "Yoro" }
 ]
