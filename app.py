@@ -61,5 +61,15 @@ def buscar_cercanas():
     except Exception as e:
         return jsonify({"error": "Por favor envía coordenadas válidas."}), 400
 
+# ---- NUEVA RUTA PARA EL MENÚ DESPLEGABLE ----
+@app.route('/todas', methods=['GET'])
+def obtener_todas():
+    try:
+        with open('estaciones.json', 'r', encoding='utf-8') as file:
+            estaciones = json.load(file)
+        return jsonify(estaciones)
+    except Exception as e:
+        return jsonify({"error": "Error cargando la base de datos interna."}), 500
+
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
